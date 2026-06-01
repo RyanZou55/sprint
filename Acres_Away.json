@@ -1,0 +1,4891 @@
+{
+  "horse_id": "5316360",
+  "horse_name": "Acres Away",
+  "races": [
+    {
+      "horse_id": "5316360",
+      "horse_name": "Acres Away",
+      "date": "2026-02-04",
+      "race_number": 2,
+      "jockey_name": "Daniel Moor",
+      "race_name": "Racecourse Village Class 6 Handicap",
+      "race_length": 1000,
+      "official_finish_rank": 2,
+      "official_finish_margin": 0.35,
+      "official_finish_time": "00:00:56.690",
+      "official_finish_time_s": 56.69,
+      "speed": {
+        "overall": {
+          "max_speed": 19.386,
+          "avg_speed": 16.0919,
+          "min_speed": 0.005,
+          "std_speed": 5.4748
+        },
+        "finish_avg_speed": 14.7242,
+        "peak": {
+          "speed": 19.386,
+          "time": "2026-02-04T14:14:01.225",
+          "distance_travelled": 628.344951301,
+          "segment": 3
+        },
+        "by_segment_intermediates": [
+          {
+            "segment_number": 0,
+            "name": "800m",
+            "rank": 4,
+            "average_speed": 17.791712347786767,
+            "top_speed": 19.180944982746723,
+            "average_stride_frequency": 2.3,
+            "average_stride_length": 6.3,
+            "distance_traveled": 201.22126580992042,
+            "section_time_s": 13.67,
+            "intermediate_time_s": 13.673,
+            "section_time": "00:00:13.670",
+            "intermediate_time": "00:00:13.673"
+          },
+          {
+            "segment_number": 1,
+            "name": "600m",
+            "rank": 2,
+            "average_speed": 19.186753546703546,
+            "top_speed": 19.37595558703771,
+            "average_stride_frequency": 2.5,
+            "average_stride_length": 7.4,
+            "distance_traveled": 200.4628837126908,
+            "section_time_s": 10.39,
+            "intermediate_time_s": 24.06,
+            "section_time": "00:00:10.390",
+            "intermediate_time": "00:00:24.060"
+          },
+          {
+            "segment_number": 2,
+            "name": "400m",
+            "rank": 2,
+            "average_speed": 18.997985310881077,
+            "top_speed": 19.325916066600293,
+            "average_stride_frequency": 2.5,
+            "average_stride_length": 7.3,
+            "distance_traveled": 201.41630914203125,
+            "section_time_s": 10.55,
+            "intermediate_time_s": 34.613,
+            "section_time": "00:00:10.550",
+            "intermediate_time": "00:00:34.613"
+          },
+          {
+            "segment_number": 3,
+            "name": "200m",
+            "rank": 2,
+            "average_speed": 18.9305798826143,
+            "top_speed": 19.385637655455696,
+            "average_stride_frequency": 2.5,
+            "average_stride_length": 7.5,
+            "distance_traveled": 199.68551523774988,
+            "section_time_s": 10.56,
+            "intermediate_time_s": 45.173,
+            "section_time": "00:00:10.560",
+            "intermediate_time": "00:00:45.173"
+          },
+          {
+            "segment_number": 4,
+            "name": "0m",
+            "rank": 2,
+            "average_speed": 17.379391100379603,
+            "top_speed": 18.238229225254983,
+            "average_stride_frequency": 2.4,
+            "average_stride_length": 7.2,
+            "distance_traveled": 199.82690467694397,
+            "section_time_s": 11.52,
+            "intermediate_time_s": 56.69,
+            "section_time": "00:00:11.520",
+            "intermediate_time": "00:00:56.690"
+          }
+        ],
+        "by_segment_live": [
+          {
+            "segment_number": 0,
+            "segment_name": "800m",
+            "max_speed": 19.181,
+            "avg_speed": 10.7065,
+            "data_points": 191
+          },
+          {
+            "segment_number": 1,
+            "segment_name": "600m",
+            "max_speed": 19.375,
+            "avg_speed": 19.1846,
+            "data_points": 105
+          },
+          {
+            "segment_number": 2,
+            "segment_name": "400m",
+            "max_speed": 19.334,
+            "avg_speed": 19.0011,
+            "data_points": 106
+          },
+          {
+            "segment_number": 3,
+            "segment_name": "200m",
+            "max_speed": 19.386,
+            "avg_speed": 18.9191,
+            "data_points": 106
+          },
+          {
+            "segment_number": 4,
+            "segment_name": null,
+            "max_speed": 18.235,
+            "avg_speed": 17.3613,
+            "data_points": 115
+          },
+          {
+            "segment_number": 5,
+            "segment_name": null,
+            "max_speed": 17.589,
+            "avg_speed": 15.1805,
+            "data_points": 55
+          }
+        ],
+        "acceleration_profile": [
+          {
+            "time": "2026-02-04T14:13:20.125",
+            "speed": 0.022,
+            "delta_speed": 0.007,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.225",
+            "speed": 0.034,
+            "delta_speed": 0.012,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.325",
+            "speed": 0.037,
+            "delta_speed": 0.003,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.425",
+            "speed": 0.049,
+            "delta_speed": 0.012,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.525",
+            "speed": 0.056,
+            "delta_speed": 0.007,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.625",
+            "speed": 0.058,
+            "delta_speed": 0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.725",
+            "speed": 0.068,
+            "delta_speed": 0.01,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.825",
+            "speed": 0.077,
+            "delta_speed": 0.009,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:20.925",
+            "speed": 0.079,
+            "delta_speed": 0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.025",
+            "speed": 0.085,
+            "delta_speed": 0.006,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.125",
+            "speed": 0.087,
+            "delta_speed": 0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.225",
+            "speed": 0.086,
+            "delta_speed": -0.001,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.325",
+            "speed": 0.088,
+            "delta_speed": 0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.425",
+            "speed": 0.087,
+            "delta_speed": -0.001,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.525",
+            "speed": 0.084,
+            "delta_speed": -0.003,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.625",
+            "speed": 0.078,
+            "delta_speed": -0.006,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.725",
+            "speed": 0.066,
+            "delta_speed": -0.012,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.825",
+            "speed": 0.061,
+            "delta_speed": -0.005,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:21.925",
+            "speed": 0.045,
+            "delta_speed": -0.016,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.025",
+            "speed": 0.028,
+            "delta_speed": -0.017,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.125",
+            "speed": 0.022,
+            "delta_speed": -0.006,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.225",
+            "speed": 0.005,
+            "delta_speed": -0.017,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.325",
+            "speed": 0.017,
+            "delta_speed": 0.012,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.425",
+            "speed": 0.022,
+            "delta_speed": 0.005,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.525",
+            "speed": 0.039,
+            "delta_speed": 0.017,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.625",
+            "speed": 0.055,
+            "delta_speed": 0.016,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.725",
+            "speed": 0.059,
+            "delta_speed": 0.004,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.825",
+            "speed": 0.072,
+            "delta_speed": 0.013,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:22.925",
+            "speed": 0.082,
+            "delta_speed": 0.01,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.025",
+            "speed": 0.086,
+            "delta_speed": 0.004,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.125",
+            "speed": 0.095,
+            "delta_speed": 0.009,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.225",
+            "speed": 0.101,
+            "delta_speed": 0.006,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.325",
+            "speed": 0.103,
+            "delta_speed": 0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.425",
+            "speed": 0.104,
+            "delta_speed": 0.001,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.525",
+            "speed": 0.102,
+            "delta_speed": -0.002,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.625",
+            "speed": 0.101,
+            "delta_speed": -0.001,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.725",
+            "speed": 0.097,
+            "delta_speed": -0.004,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.825",
+            "speed": 0.097,
+            "delta_speed": 0.0,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:23.925",
+            "speed": 0.09,
+            "delta_speed": -0.007,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.025",
+            "speed": 0.106,
+            "delta_speed": 0.016,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.125",
+            "speed": 0.172,
+            "delta_speed": 0.066,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.225",
+            "speed": 0.145,
+            "delta_speed": -0.027,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.325",
+            "speed": 0.224,
+            "delta_speed": 0.079,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.425",
+            "speed": 0.305,
+            "delta_speed": 0.081,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.525",
+            "speed": 0.238,
+            "delta_speed": -0.067,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.625",
+            "speed": 0.301,
+            "delta_speed": 0.063,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.725",
+            "speed": 0.33,
+            "delta_speed": 0.029,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.825",
+            "speed": 0.208,
+            "delta_speed": -0.122,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:24.925",
+            "speed": 0.197,
+            "delta_speed": -0.011,
+            "distance_travelled": 0.0,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.025",
+            "speed": 0.14,
+            "delta_speed": -0.057,
+            "distance_travelled": 0.004836393329161031,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.125",
+            "speed": 0.054,
+            "delta_speed": -0.086,
+            "distance_travelled": 0.038723504107485596,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.225",
+            "speed": 0.183,
+            "delta_speed": 0.129,
+            "distance_travelled": 0.05713857395109878,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.325",
+            "speed": 0.364,
+            "delta_speed": 0.181,
+            "distance_travelled": 0.13638256520541134,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.425",
+            "speed": 0.609,
+            "delta_speed": 0.245,
+            "distance_travelled": 0.2508263593707458,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.525",
+            "speed": 0.868,
+            "delta_speed": 0.259,
+            "distance_travelled": 0.3376998216489811,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.625",
+            "speed": 1.183,
+            "delta_speed": 0.315,
+            "distance_travelled": 0.5116476880046623,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.725",
+            "speed": 1.486,
+            "delta_speed": 0.303,
+            "distance_travelled": 0.7207728757709216,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.825",
+            "speed": 1.875,
+            "delta_speed": 0.389,
+            "distance_travelled": 0.9083223648348371,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:25.925",
+            "speed": 2.324,
+            "delta_speed": 0.449,
+            "distance_travelled": 1.2011755332074072,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.025",
+            "speed": 2.675,
+            "delta_speed": 0.351,
+            "distance_travelled": 1.5151133881378251,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.125",
+            "speed": 3.162,
+            "delta_speed": 0.487,
+            "distance_travelled": 1.8314072954128455,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.225",
+            "speed": 3.694,
+            "delta_speed": 0.532,
+            "distance_travelled": 2.237257331366586,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.325",
+            "speed": 4.082,
+            "delta_speed": 0.388,
+            "distance_travelled": 2.6855846563261,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.425",
+            "speed": 4.655,
+            "delta_speed": 0.573,
+            "distance_travelled": 3.15109179622887,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.525",
+            "speed": 5.236,
+            "delta_speed": 0.581,
+            "distance_travelled": 3.6845531212058007,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.625",
+            "speed": 5.644,
+            "delta_speed": 0.408,
+            "distance_travelled": 4.2611311758892,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.725",
+            "speed": 6.246,
+            "delta_speed": 0.602,
+            "distance_travelled": 4.8857584746463525,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.825",
+            "speed": 6.838,
+            "delta_speed": 0.592,
+            "distance_travelled": 5.554482529410862,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:26.925",
+            "speed": 7.249,
+            "delta_speed": 0.411,
+            "distance_travelled": 6.260394314081043,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.025",
+            "speed": 7.826,
+            "delta_speed": 0.577,
+            "distance_travelled": 7.0429835745211005,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.125",
+            "speed": 8.395,
+            "delta_speed": 0.569,
+            "distance_travelled": 7.853757823944849,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.225",
+            "speed": 8.793,
+            "delta_speed": 0.398,
+            "distance_travelled": 8.692131666066857,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.325",
+            "speed": 9.306,
+            "delta_speed": 0.513,
+            "distance_travelled": 9.62267205586546,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.425",
+            "speed": 9.797,
+            "delta_speed": 0.491,
+            "distance_travelled": 10.562553700147124,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.525",
+            "speed": 10.17,
+            "delta_speed": 0.373,
+            "distance_travelled": 11.547950965222446,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.625",
+            "speed": 10.612,
+            "delta_speed": 0.442,
+            "distance_travelled": 12.60909497119632,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.725",
+            "speed": 10.983,
+            "delta_speed": 0.371,
+            "distance_travelled": 13.665582223584844,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.825",
+            "speed": 11.319,
+            "delta_speed": 0.336,
+            "distance_travelled": 14.763798960191206,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:27.925",
+            "speed": 11.621,
+            "delta_speed": 0.302,
+            "distance_travelled": 15.925853096526472,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.025",
+            "speed": 11.887,
+            "delta_speed": 0.266,
+            "distance_travelled": 17.10043798606046,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.125",
+            "speed": 12.182,
+            "delta_speed": 0.295,
+            "distance_travelled": 18.317608507058356,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.225",
+            "speed": 12.407,
+            "delta_speed": 0.225,
+            "distance_travelled": 19.5582150967609,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.325",
+            "speed": 12.618,
+            "delta_speed": 0.211,
+            "distance_travelled": 20.832801765147522,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.425",
+            "speed": 12.87,
+            "delta_speed": 0.252,
+            "distance_travelled": 22.130079773539236,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.525",
+            "speed": 13.018,
+            "delta_speed": 0.148,
+            "distance_travelled": 23.431853259530538,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.625",
+            "speed": 13.165,
+            "delta_speed": 0.147,
+            "distance_travelled": 24.7700371427529,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.725",
+            "speed": 13.381,
+            "delta_speed": 0.216,
+            "distance_travelled": 26.123794609922147,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.825",
+            "speed": 13.536,
+            "delta_speed": 0.155,
+            "distance_travelled": 27.477407223377167,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:28.925",
+            "speed": 13.716,
+            "delta_speed": 0.18,
+            "distance_travelled": 28.838033006983952,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.025",
+            "speed": 13.907,
+            "delta_speed": 0.191,
+            "distance_travelled": 30.233773642948165,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.125",
+            "speed": 14.075,
+            "delta_speed": 0.168,
+            "distance_travelled": 31.64125478206554,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.225",
+            "speed": 14.233,
+            "delta_speed": 0.158,
+            "distance_travelled": 33.05997617810824,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.325",
+            "speed": 14.403,
+            "delta_speed": 0.17,
+            "distance_travelled": 34.48883651854065,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.425",
+            "speed": 14.559,
+            "delta_speed": 0.156,
+            "distance_travelled": 35.944702621890315,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.525",
+            "speed": 14.703,
+            "delta_speed": 0.144,
+            "distance_travelled": 37.426864712443084,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.625",
+            "speed": 14.853,
+            "delta_speed": 0.15,
+            "distance_travelled": 38.90210615487112,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.725",
+            "speed": 14.979,
+            "delta_speed": 0.126,
+            "distance_travelled": 40.399953849323126,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.825",
+            "speed": 15.11,
+            "delta_speed": 0.131,
+            "distance_travelled": 41.90905439783047,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:29.925",
+            "speed": 15.244,
+            "delta_speed": 0.134,
+            "distance_travelled": 43.436460654523216,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.025",
+            "speed": 15.36,
+            "delta_speed": 0.116,
+            "distance_travelled": 44.97244015596306,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.125",
+            "speed": 15.462,
+            "delta_speed": 0.102,
+            "distance_travelled": 46.51141030063897,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.225",
+            "speed": 15.581,
+            "delta_speed": 0.119,
+            "distance_travelled": 48.07441637544416,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.325",
+            "speed": 15.686,
+            "delta_speed": 0.105,
+            "distance_travelled": 49.64299547395625,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.425",
+            "speed": 15.781,
+            "delta_speed": 0.095,
+            "distance_travelled": 51.220558934819564,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.525",
+            "speed": 15.885,
+            "delta_speed": 0.104,
+            "distance_travelled": 52.80708521322323,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.625",
+            "speed": 15.971,
+            "delta_speed": 0.086,
+            "distance_travelled": 54.40414058567151,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.725",
+            "speed": 16.059,
+            "delta_speed": 0.088,
+            "distance_travelled": 56.02047069327405,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.825",
+            "speed": 16.15,
+            "delta_speed": 0.091,
+            "distance_travelled": 57.632288889873855,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:30.925",
+            "speed": 16.236,
+            "delta_speed": 0.086,
+            "distance_travelled": 59.25583023474227,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.025",
+            "speed": 16.318,
+            "delta_speed": 0.082,
+            "distance_travelled": 60.88930485809096,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.125",
+            "speed": 16.397,
+            "delta_speed": 0.079,
+            "distance_travelled": 62.534756812149496,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.225",
+            "speed": 16.459,
+            "delta_speed": 0.062,
+            "distance_travelled": 64.18061432904413,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.325",
+            "speed": 16.518,
+            "delta_speed": 0.059,
+            "distance_travelled": 65.82622528788193,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.425",
+            "speed": 16.586,
+            "delta_speed": 0.068,
+            "distance_travelled": 67.48580580844195,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.525",
+            "speed": 16.648,
+            "delta_speed": 0.062,
+            "distance_travelled": 69.1505770619236,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.625",
+            "speed": 16.708,
+            "delta_speed": 0.06,
+            "distance_travelled": 70.82248552416284,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.725",
+            "speed": 16.766,
+            "delta_speed": 0.058,
+            "distance_travelled": 72.49466884087482,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.825",
+            "speed": 16.822,
+            "delta_speed": 0.056,
+            "distance_travelled": 74.17685254921408,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:31.925",
+            "speed": 16.86,
+            "delta_speed": 0.038,
+            "distance_travelled": 75.86649800035154,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.025",
+            "speed": 16.908,
+            "delta_speed": 0.048,
+            "distance_travelled": 77.5550435475136,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.125",
+            "speed": 16.96,
+            "delta_speed": 0.052,
+            "distance_travelled": 79.25101667956676,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.225",
+            "speed": 16.997,
+            "delta_speed": 0.037,
+            "distance_travelled": 80.94892739331166,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.325",
+            "speed": 17.038,
+            "delta_speed": 0.041,
+            "distance_travelled": 82.65196868563415,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.425",
+            "speed": 17.055,
+            "delta_speed": 0.017,
+            "distance_travelled": 84.35750504393698,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.525",
+            "speed": 17.101,
+            "delta_speed": 0.046,
+            "distance_travelled": 86.0516240826482,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.625",
+            "speed": 17.136,
+            "delta_speed": 0.035,
+            "distance_travelled": 87.75959526987151,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.725",
+            "speed": 17.162,
+            "delta_speed": 0.026,
+            "distance_travelled": 89.47578547631176,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.825",
+            "speed": 17.167,
+            "delta_speed": 0.005,
+            "distance_travelled": 91.18918932323375,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:32.925",
+            "speed": 17.197,
+            "delta_speed": 0.03,
+            "distance_travelled": 92.90862936166612,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.025",
+            "speed": 17.188,
+            "delta_speed": -0.009,
+            "distance_travelled": 94.62744364396755,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.125",
+            "speed": 17.194,
+            "delta_speed": 0.006,
+            "distance_travelled": 96.3529304506626,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.225",
+            "speed": 17.221,
+            "delta_speed": 0.027,
+            "distance_travelled": 98.06825279976846,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.325",
+            "speed": 17.231,
+            "delta_speed": 0.01,
+            "distance_travelled": 99.7913443073541,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.425",
+            "speed": 17.252,
+            "delta_speed": 0.021,
+            "distance_travelled": 101.51461383075724,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.525",
+            "speed": 17.282,
+            "delta_speed": 0.03,
+            "distance_travelled": 103.25143202278407,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.625",
+            "speed": 17.292,
+            "delta_speed": 0.01,
+            "distance_travelled": 104.980606866386,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.725",
+            "speed": 17.327,
+            "delta_speed": 0.035,
+            "distance_travelled": 106.71090305384037,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.825",
+            "speed": 17.36,
+            "delta_speed": 0.033,
+            "distance_travelled": 108.45605324222619,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:33.925",
+            "speed": 17.388,
+            "delta_speed": 0.028,
+            "distance_travelled": 110.19488796706165,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.025",
+            "speed": 17.426,
+            "delta_speed": 0.038,
+            "distance_travelled": 111.94481968114285,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.125",
+            "speed": 17.462,
+            "delta_speed": 0.036,
+            "distance_travelled": 113.69652030621239,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.225",
+            "speed": 17.516,
+            "delta_speed": 0.054,
+            "distance_travelled": 115.44809630609997,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.325",
+            "speed": 17.558,
+            "delta_speed": 0.042,
+            "distance_travelled": 117.22203811711714,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.425",
+            "speed": 17.595,
+            "delta_speed": 0.037,
+            "distance_travelled": 118.98020828101644,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.525",
+            "speed": 17.654,
+            "delta_speed": 0.059,
+            "distance_travelled": 120.7456528310101,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.625",
+            "speed": 17.715,
+            "delta_speed": 0.061,
+            "distance_travelled": 122.5177603176435,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.725",
+            "speed": 17.755,
+            "delta_speed": 0.04,
+            "distance_travelled": 124.3007197912864,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.825",
+            "speed": 17.807,
+            "delta_speed": 0.052,
+            "distance_travelled": 126.0814464032974,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:34.925",
+            "speed": 17.868,
+            "delta_speed": 0.061,
+            "distance_travelled": 127.85723877089677,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.025",
+            "speed": 17.909,
+            "delta_speed": 0.041,
+            "distance_travelled": 129.6512626449793,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.125",
+            "speed": 17.965,
+            "delta_speed": 0.056,
+            "distance_travelled": 131.4477312128508,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.225",
+            "speed": 18.009,
+            "delta_speed": 0.044,
+            "distance_travelled": 133.24140009258397,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.325",
+            "speed": 18.05,
+            "delta_speed": 0.041,
+            "distance_travelled": 135.0292845436198,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.425",
+            "speed": 18.088,
+            "delta_speed": 0.038,
+            "distance_travelled": 136.8380649828619,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.525",
+            "speed": 18.14,
+            "delta_speed": 0.052,
+            "distance_travelled": 138.6627721413396,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.625",
+            "speed": 18.181,
+            "delta_speed": 0.041,
+            "distance_travelled": 140.47216709942478,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.725",
+            "speed": 18.226,
+            "delta_speed": 0.045,
+            "distance_travelled": 142.2947519228058,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.825",
+            "speed": 18.275,
+            "delta_speed": 0.049,
+            "distance_travelled": 144.1196723092962,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:35.925",
+            "speed": 18.316,
+            "delta_speed": 0.041,
+            "distance_travelled": 145.95413538902397,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.025",
+            "speed": 18.361,
+            "delta_speed": 0.045,
+            "distance_travelled": 147.79023162838598,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.125",
+            "speed": 18.411,
+            "delta_speed": 0.05,
+            "distance_travelled": 149.62392976706187,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.225",
+            "speed": 18.449,
+            "delta_speed": 0.038,
+            "distance_travelled": 151.47318017717276,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.325",
+            "speed": 18.489,
+            "delta_speed": 0.04,
+            "distance_travelled": 153.32204889007545,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.425",
+            "speed": 18.51,
+            "delta_speed": 0.021,
+            "distance_travelled": 155.1762520719761,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.525",
+            "speed": 18.543,
+            "delta_speed": 0.033,
+            "distance_travelled": 157.02711926563887,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.625",
+            "speed": 18.572,
+            "delta_speed": 0.029,
+            "distance_travelled": 158.88431733083766,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.725",
+            "speed": 18.601,
+            "delta_speed": 0.029,
+            "distance_travelled": 160.75266692144442,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.825",
+            "speed": 18.631,
+            "delta_speed": 0.03,
+            "distance_travelled": 162.61947164703815,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:36.925",
+            "speed": 18.657,
+            "delta_speed": 0.026,
+            "distance_travelled": 164.4851882141303,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.025",
+            "speed": 18.688,
+            "delta_speed": 0.031,
+            "distance_travelled": 166.35799000864802,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.125",
+            "speed": 18.714,
+            "delta_speed": 0.026,
+            "distance_travelled": 168.23011833973035,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.225",
+            "speed": 18.743,
+            "delta_speed": 0.029,
+            "distance_travelled": 170.10439827967545,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.325",
+            "speed": 18.756,
+            "delta_speed": 0.013,
+            "distance_travelled": 171.97286083220553,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.425",
+            "speed": 18.781,
+            "delta_speed": 0.025,
+            "distance_travelled": 173.85129544081326,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.525",
+            "speed": 18.802,
+            "delta_speed": 0.021,
+            "distance_travelled": 175.7314788151782,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.625",
+            "speed": 18.823,
+            "delta_speed": 0.021,
+            "distance_travelled": 177.61146381424112,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.725",
+            "speed": 18.847,
+            "delta_speed": 0.024,
+            "distance_travelled": 179.4911208008988,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.825",
+            "speed": 18.87,
+            "delta_speed": 0.023,
+            "distance_travelled": 181.37808434639814,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:37.925",
+            "speed": 18.883,
+            "delta_speed": 0.013,
+            "distance_travelled": 183.26634201821219,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.025",
+            "speed": 18.907,
+            "delta_speed": 0.024,
+            "distance_travelled": 185.15426360260025,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.125",
+            "speed": 18.937,
+            "delta_speed": 0.03,
+            "distance_travelled": 187.04796075647513,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.225",
+            "speed": 18.965,
+            "delta_speed": 0.028,
+            "distance_travelled": 188.94379011222796,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.325",
+            "speed": 18.99,
+            "delta_speed": 0.025,
+            "distance_travelled": 190.84578358512755,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.425",
+            "speed": 19.011,
+            "delta_speed": 0.021,
+            "distance_travelled": 192.74687298817804,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.525",
+            "speed": 19.048,
+            "delta_speed": 0.037,
+            "distance_travelled": 194.65482173768487,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.625",
+            "speed": 19.072,
+            "delta_speed": 0.024,
+            "distance_travelled": 196.56434611188288,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.725",
+            "speed": 19.096,
+            "delta_speed": 0.024,
+            "distance_travelled": 198.4739072503281,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.825",
+            "speed": 19.126,
+            "delta_speed": 0.03,
+            "distance_travelled": 200.3932002357862,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:38.925",
+            "speed": 19.148,
+            "delta_speed": 0.022,
+            "distance_travelled": 202.31670946457646,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:39.025",
+            "speed": 19.181,
+            "delta_speed": 0.033,
+            "distance_travelled": 204.23479916152135,
+            "segment": 0
+          },
+          {
+            "time": "2026-02-04T14:13:39.125",
+            "speed": 19.205,
+            "delta_speed": 0.024,
+            "distance_travelled": 206.16173371544153,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.225",
+            "speed": 19.222,
+            "delta_speed": 0.017,
+            "distance_travelled": 208.08839796262973,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.325",
+            "speed": 19.261,
+            "delta_speed": 0.039,
+            "distance_travelled": 210.01450745756998,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.425",
+            "speed": 19.288,
+            "delta_speed": 0.027,
+            "distance_travelled": 211.94067565974734,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.525",
+            "speed": 19.3,
+            "delta_speed": 0.012,
+            "distance_travelled": 213.87057605799706,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.625",
+            "speed": 19.303,
+            "delta_speed": 0.003,
+            "distance_travelled": 215.80082127534448,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.725",
+            "speed": 19.327,
+            "delta_speed": 0.024,
+            "distance_travelled": 217.72592088572344,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.825",
+            "speed": 19.334,
+            "delta_speed": 0.007,
+            "distance_travelled": 219.65185899491325,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:39.925",
+            "speed": 19.336,
+            "delta_speed": 0.002,
+            "distance_travelled": 221.58541717596572,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.025",
+            "speed": 19.343,
+            "delta_speed": 0.007,
+            "distance_travelled": 223.51060776118845,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.125",
+            "speed": 19.345,
+            "delta_speed": 0.002,
+            "distance_travelled": 225.4333151835541,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.225",
+            "speed": 19.355,
+            "delta_speed": 0.01,
+            "distance_travelled": 227.36876523466145,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.325",
+            "speed": 19.33,
+            "delta_speed": -0.025,
+            "distance_travelled": 229.29802681677853,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.425",
+            "speed": 19.328,
+            "delta_speed": -0.002,
+            "distance_travelled": 231.23160962724967,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.525",
+            "speed": 19.323,
+            "delta_speed": -0.005,
+            "distance_travelled": 233.16394364803133,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.625",
+            "speed": 19.327,
+            "delta_speed": 0.004,
+            "distance_travelled": 235.10205814644308,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.725",
+            "speed": 19.317,
+            "delta_speed": -0.01,
+            "distance_travelled": 237.03371650255593,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.825",
+            "speed": 19.281,
+            "delta_speed": -0.036,
+            "distance_travelled": 238.96180561204054,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:40.925",
+            "speed": 19.264,
+            "delta_speed": -0.017,
+            "distance_travelled": 240.88867695396436,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.025",
+            "speed": 19.249,
+            "delta_speed": -0.015,
+            "distance_travelled": 242.80520328736404,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.125",
+            "speed": 19.207,
+            "delta_speed": -0.042,
+            "distance_travelled": 244.72585741843469,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.225",
+            "speed": 19.172,
+            "delta_speed": -0.035,
+            "distance_travelled": 246.63789352063037,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.325",
+            "speed": 19.156,
+            "delta_speed": -0.016,
+            "distance_travelled": 248.54959504008892,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.425",
+            "speed": 19.129,
+            "delta_speed": -0.027,
+            "distance_travelled": 250.462467669648,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.525",
+            "speed": 19.063,
+            "delta_speed": -0.066,
+            "distance_travelled": 252.36353081539676,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.625",
+            "speed": 19.05,
+            "delta_speed": -0.013,
+            "distance_travelled": 254.2698578321748,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.725",
+            "speed": 19.018,
+            "delta_speed": -0.032,
+            "distance_travelled": 256.17168011812805,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.825",
+            "speed": 18.989,
+            "delta_speed": -0.029,
+            "distance_travelled": 258.07470587711384,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:41.925",
+            "speed": 18.979,
+            "delta_speed": -0.01,
+            "distance_travelled": 259.9776343384732,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.025",
+            "speed": 18.955,
+            "delta_speed": -0.024,
+            "distance_travelled": 261.87312297717506,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.125",
+            "speed": 18.954,
+            "delta_speed": -0.001,
+            "distance_travelled": 263.7705904682375,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.225",
+            "speed": 18.949,
+            "delta_speed": -0.005,
+            "distance_travelled": 265.6639413858361,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.325",
+            "speed": 18.927,
+            "delta_speed": -0.022,
+            "distance_travelled": 267.55664572297314,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.425",
+            "speed": 18.924,
+            "delta_speed": -0.003,
+            "distance_travelled": 269.4554296602761,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.525",
+            "speed": 18.927,
+            "delta_speed": 0.003,
+            "distance_travelled": 271.35746906408457,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.625",
+            "speed": 18.946,
+            "delta_speed": 0.019,
+            "distance_travelled": 273.25211443790755,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.725",
+            "speed": 18.966,
+            "delta_speed": 0.02,
+            "distance_travelled": 275.15424898300597,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.825",
+            "speed": 18.973,
+            "delta_speed": 0.007,
+            "distance_travelled": 277.0615703497488,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:42.925",
+            "speed": 19.004,
+            "delta_speed": 0.031,
+            "distance_travelled": 278.9619994039505,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.025",
+            "speed": 19.03,
+            "delta_speed": 0.026,
+            "distance_travelled": 280.8676990092599,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.125",
+            "speed": 19.04,
+            "delta_speed": 0.01,
+            "distance_travelled": 282.7713801071063,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.225",
+            "speed": 19.064,
+            "delta_speed": 0.024,
+            "distance_travelled": 284.6778128454132,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.325",
+            "speed": 19.094,
+            "delta_speed": 0.03,
+            "distance_travelled": 286.5897048478437,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.425",
+            "speed": 19.106,
+            "delta_speed": 0.012,
+            "distance_travelled": 288.4970813230431,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.525",
+            "speed": 19.128,
+            "delta_speed": 0.022,
+            "distance_travelled": 290.40989535634833,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.625",
+            "speed": 19.153,
+            "delta_speed": 0.025,
+            "distance_travelled": 292.32597825413404,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.725",
+            "speed": 19.166,
+            "delta_speed": 0.013,
+            "distance_travelled": 294.2496721608024,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.825",
+            "speed": 19.188,
+            "delta_speed": 0.022,
+            "distance_travelled": 296.1684245835694,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:43.925",
+            "speed": 19.218,
+            "delta_speed": 0.03,
+            "distance_travelled": 298.09086595212466,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.025",
+            "speed": 19.229,
+            "delta_speed": 0.011,
+            "distance_travelled": 300.01458093042254,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.125",
+            "speed": 19.26,
+            "delta_speed": 0.031,
+            "distance_travelled": 301.9405525745602,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.225",
+            "speed": 19.285,
+            "delta_speed": 0.025,
+            "distance_travelled": 303.86162746912646,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.325",
+            "speed": 19.295,
+            "delta_speed": 0.01,
+            "distance_travelled": 305.78015003183566,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.425",
+            "speed": 19.316,
+            "delta_speed": 0.021,
+            "distance_travelled": 307.71178896664765,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.525",
+            "speed": 19.331,
+            "delta_speed": 0.015,
+            "distance_travelled": 309.6409165777339,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.625",
+            "speed": 19.339,
+            "delta_speed": 0.008,
+            "distance_travelled": 311.5684166160448,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.725",
+            "speed": 19.355,
+            "delta_speed": 0.016,
+            "distance_travelled": 313.503922333593,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.825",
+            "speed": 19.368,
+            "delta_speed": 0.013,
+            "distance_travelled": 315.43865795672997,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:44.925",
+            "speed": 19.373,
+            "delta_speed": 0.005,
+            "distance_travelled": 317.3771459778019,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.025",
+            "speed": 19.375,
+            "delta_speed": 0.002,
+            "distance_travelled": 319.31463316613736,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.125",
+            "speed": 19.366,
+            "delta_speed": -0.009,
+            "distance_travelled": 321.2480395231524,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.225",
+            "speed": 19.368,
+            "delta_speed": 0.002,
+            "distance_travelled": 323.1979899023953,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.325",
+            "speed": 19.36,
+            "delta_speed": -0.008,
+            "distance_travelled": 325.1339713952357,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.425",
+            "speed": 19.331,
+            "delta_speed": -0.029,
+            "distance_travelled": 327.08724419569063,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.525",
+            "speed": 19.325,
+            "delta_speed": -0.006,
+            "distance_travelled": 329.01325936027314,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.625",
+            "speed": 19.343,
+            "delta_speed": 0.018,
+            "distance_travelled": 330.9475980782125,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.725",
+            "speed": 19.334,
+            "delta_speed": -0.009,
+            "distance_travelled": 332.8869556693266,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.825",
+            "speed": 19.327,
+            "delta_speed": -0.007,
+            "distance_travelled": 334.81640984823224,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:45.925",
+            "speed": 19.334,
+            "delta_speed": 0.007,
+            "distance_travelled": 336.7498357988821,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.025",
+            "speed": 19.338,
+            "delta_speed": 0.004,
+            "distance_travelled": 338.6817077947138,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.125",
+            "speed": 19.331,
+            "delta_speed": -0.007,
+            "distance_travelled": 340.6144569120579,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.225",
+            "speed": 19.322,
+            "delta_speed": -0.009,
+            "distance_travelled": 342.54668742811356,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.325",
+            "speed": 19.316,
+            "delta_speed": -0.006,
+            "distance_travelled": 344.46380269505056,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.425",
+            "speed": 19.309,
+            "delta_speed": -0.007,
+            "distance_travelled": 346.39080625428113,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.525",
+            "speed": 19.301,
+            "delta_speed": -0.008,
+            "distance_travelled": 348.3208757001335,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.625",
+            "speed": 19.291,
+            "delta_speed": -0.01,
+            "distance_travelled": 350.2507033808338,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.725",
+            "speed": 19.284,
+            "delta_speed": -0.007,
+            "distance_travelled": 352.17388647311736,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.825",
+            "speed": 19.278,
+            "delta_speed": -0.006,
+            "distance_travelled": 354.1017215155185,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:46.925",
+            "speed": 19.262,
+            "delta_speed": -0.016,
+            "distance_travelled": 356.0225095186919,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.025",
+            "speed": 19.255,
+            "delta_speed": -0.007,
+            "distance_travelled": 357.9450078203405,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.125",
+            "speed": 19.252,
+            "delta_speed": -0.003,
+            "distance_travelled": 359.87015433641943,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.225",
+            "speed": 19.225,
+            "delta_speed": -0.027,
+            "distance_travelled": 361.7894044374039,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.325",
+            "speed": 19.218,
+            "delta_speed": -0.007,
+            "distance_travelled": 363.7157350469294,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.425",
+            "speed": 19.179,
+            "delta_speed": -0.039,
+            "distance_travelled": 365.6336228846709,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.525",
+            "speed": 19.171,
+            "delta_speed": -0.008,
+            "distance_travelled": 367.55712238354613,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.625",
+            "speed": 19.162,
+            "delta_speed": -0.009,
+            "distance_travelled": 369.48815513676357,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.725",
+            "speed": 19.162,
+            "delta_speed": 0.0,
+            "distance_travelled": 371.404371769812,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.825",
+            "speed": 19.168,
+            "delta_speed": 0.006,
+            "distance_travelled": 373.32969618974715,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:47.925",
+            "speed": 19.154,
+            "delta_speed": -0.014,
+            "distance_travelled": 375.24356608225645,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.025",
+            "speed": 19.155,
+            "delta_speed": 0.001,
+            "distance_travelled": 377.159092581615,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.125",
+            "speed": 19.15,
+            "delta_speed": -0.005,
+            "distance_travelled": 379.08049009019607,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.225",
+            "speed": 19.133,
+            "delta_speed": -0.017,
+            "distance_travelled": 380.9882585780778,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.325",
+            "speed": 19.117,
+            "delta_speed": -0.016,
+            "distance_travelled": 382.8999624301104,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.425",
+            "speed": 19.088,
+            "delta_speed": -0.029,
+            "distance_travelled": 384.80434655281147,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.525",
+            "speed": 19.071,
+            "delta_speed": -0.017,
+            "distance_travelled": 386.71335280981003,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.625",
+            "speed": 19.036,
+            "delta_speed": -0.035,
+            "distance_travelled": 388.616921876721,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.725",
+            "speed": 19.009,
+            "delta_speed": -0.027,
+            "distance_travelled": 390.5129954581254,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.825",
+            "speed": 18.992,
+            "delta_speed": -0.017,
+            "distance_travelled": 392.41103323671206,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:48.925",
+            "speed": 18.977,
+            "delta_speed": -0.015,
+            "distance_travelled": 394.3087471274184,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.025",
+            "speed": 18.957,
+            "delta_speed": -0.02,
+            "distance_travelled": 396.19551877317167,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.125",
+            "speed": 18.943,
+            "delta_speed": -0.014,
+            "distance_travelled": 398.0797968886066,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.225",
+            "speed": 18.927,
+            "delta_speed": -0.016,
+            "distance_travelled": 399.9724626148296,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.325",
+            "speed": 18.919,
+            "delta_speed": -0.008,
+            "distance_travelled": 401.87022905382,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.425",
+            "speed": 18.909,
+            "delta_speed": -0.01,
+            "distance_travelled": 403.753071620656,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.525",
+            "speed": 18.891,
+            "delta_speed": -0.018,
+            "distance_travelled": 405.642126242448,
+            "segment": 1
+          },
+          {
+            "time": "2026-02-04T14:13:49.625",
+            "speed": 18.88,
+            "delta_speed": -0.011,
+            "distance_travelled": 407.5294913694713,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:49.725",
+            "speed": 18.875,
+            "delta_speed": -0.005,
+            "distance_travelled": 409.42243562674975,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:49.825",
+            "speed": 18.873,
+            "delta_speed": -0.002,
+            "distance_travelled": 411.309759635888,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:49.925",
+            "speed": 18.869,
+            "delta_speed": -0.004,
+            "distance_travelled": 413.19181579164723,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.025",
+            "speed": 18.868,
+            "delta_speed": -0.001,
+            "distance_travelled": 415.09045218071606,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.125",
+            "speed": 18.868,
+            "delta_speed": 0.0,
+            "distance_travelled": 416.97722731718875,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.225",
+            "speed": 18.863,
+            "delta_speed": -0.005,
+            "distance_travelled": 418.86918372895275,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.325",
+            "speed": 18.862,
+            "delta_speed": -0.001,
+            "distance_travelled": 420.753172168931,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.425",
+            "speed": 18.865,
+            "delta_speed": 0.003,
+            "distance_travelled": 422.6397022696898,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.525",
+            "speed": 18.866,
+            "delta_speed": 0.001,
+            "distance_travelled": 424.5328218130485,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.625",
+            "speed": 18.865,
+            "delta_speed": -0.001,
+            "distance_travelled": 426.4108401392486,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.725",
+            "speed": 18.853,
+            "delta_speed": -0.012,
+            "distance_travelled": 428.29611912357234,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.825",
+            "speed": 18.854,
+            "delta_speed": 0.001,
+            "distance_travelled": 430.18235748709174,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:50.925",
+            "speed": 18.854,
+            "delta_speed": 0.0,
+            "distance_travelled": 432.0730222837538,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.025",
+            "speed": 18.859,
+            "delta_speed": 0.005,
+            "distance_travelled": 433.95893198829464,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.125",
+            "speed": 18.86,
+            "delta_speed": 0.001,
+            "distance_travelled": 435.8357587286601,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.225",
+            "speed": 18.859,
+            "delta_speed": -0.001,
+            "distance_travelled": 437.7313909461669,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.325",
+            "speed": 18.865,
+            "delta_speed": 0.006,
+            "distance_travelled": 439.6178931589439,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.425",
+            "speed": 18.853,
+            "delta_speed": -0.012,
+            "distance_travelled": 441.50998004904403,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.525",
+            "speed": 18.847,
+            "delta_speed": -0.006,
+            "distance_travelled": 443.3782019897469,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.625",
+            "speed": 18.829,
+            "delta_speed": -0.018,
+            "distance_travelled": 445.26107959941334,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.725",
+            "speed": 18.843,
+            "delta_speed": 0.014,
+            "distance_travelled": 447.14910156781065,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.825",
+            "speed": 18.838,
+            "delta_speed": -0.005,
+            "distance_travelled": 449.02618338799294,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:51.925",
+            "speed": 18.833,
+            "delta_speed": -0.005,
+            "distance_travelled": 450.9094354960496,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.025",
+            "speed": 18.84,
+            "delta_speed": 0.007,
+            "distance_travelled": 452.7869485327535,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.125",
+            "speed": 18.837,
+            "delta_speed": -0.003,
+            "distance_travelled": 454.6723742824735,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.225",
+            "speed": 18.831,
+            "delta_speed": -0.006,
+            "distance_travelled": 456.5554680370223,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.325",
+            "speed": 18.797,
+            "delta_speed": -0.034,
+            "distance_travelled": 458.4422330964298,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.425",
+            "speed": 18.794,
+            "delta_speed": -0.003,
+            "distance_travelled": 460.33267405773614,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.525",
+            "speed": 18.782,
+            "delta_speed": -0.012,
+            "distance_travelled": 462.21092333658225,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.625",
+            "speed": 18.77,
+            "delta_speed": -0.012,
+            "distance_travelled": 464.09216353939723,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.725",
+            "speed": 18.769,
+            "delta_speed": -0.001,
+            "distance_travelled": 465.9649468071645,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.825",
+            "speed": 18.774,
+            "delta_speed": 0.005,
+            "distance_travelled": 467.8423240332784,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:52.925",
+            "speed": 18.79,
+            "delta_speed": 0.016,
+            "distance_travelled": 469.7258347973199,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.025",
+            "speed": 18.794,
+            "delta_speed": 0.004,
+            "distance_travelled": 471.6004109208506,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.125",
+            "speed": 18.81,
+            "delta_speed": 0.016,
+            "distance_travelled": 473.48146009381026,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.225",
+            "speed": 18.832,
+            "delta_speed": 0.022,
+            "distance_travelled": 475.36278554311593,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.325",
+            "speed": 18.841,
+            "delta_speed": 0.009,
+            "distance_travelled": 477.25224147437706,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.425",
+            "speed": 18.854,
+            "delta_speed": 0.013,
+            "distance_travelled": 479.13767412028824,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.525",
+            "speed": 18.873,
+            "delta_speed": 0.019,
+            "distance_travelled": 481.02076617600454,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.625",
+            "speed": 18.883,
+            "delta_speed": 0.01,
+            "distance_travelled": 482.912434301556,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.725",
+            "speed": 18.906,
+            "delta_speed": 0.023,
+            "distance_travelled": 484.8030105886761,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.825",
+            "speed": 18.929,
+            "delta_speed": 0.023,
+            "distance_travelled": 486.6956378340827,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:53.925",
+            "speed": 18.939,
+            "delta_speed": 0.01,
+            "distance_travelled": 488.58634753176466,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.025",
+            "speed": 18.961,
+            "delta_speed": 0.022,
+            "distance_travelled": 490.4824428606119,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.125",
+            "speed": 18.96,
+            "delta_speed": -0.001,
+            "distance_travelled": 492.384774299621,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.225",
+            "speed": 18.967,
+            "delta_speed": 0.007,
+            "distance_travelled": 494.2819232068867,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.325",
+            "speed": 18.996,
+            "delta_speed": 0.029,
+            "distance_travelled": 496.18156088501513,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.425",
+            "speed": 19.01,
+            "delta_speed": 0.014,
+            "distance_travelled": 498.08255530519756,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.525",
+            "speed": 19.014,
+            "delta_speed": 0.004,
+            "distance_travelled": 499.9877551757987,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.625",
+            "speed": 19.005,
+            "delta_speed": -0.009,
+            "distance_travelled": 501.88822302600977,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.725",
+            "speed": 19.002,
+            "delta_speed": -0.003,
+            "distance_travelled": 503.78180659384077,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.825",
+            "speed": 19.004,
+            "delta_speed": 0.002,
+            "distance_travelled": 505.6835125761212,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:54.925",
+            "speed": 19.003,
+            "delta_speed": -0.001,
+            "distance_travelled": 507.58384818322656,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.025",
+            "speed": 18.995,
+            "delta_speed": -0.008,
+            "distance_travelled": 509.4847358772831,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.125",
+            "speed": 18.996,
+            "delta_speed": 0.001,
+            "distance_travelled": 511.3786143935364,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.225",
+            "speed": 19.0,
+            "delta_speed": 0.004,
+            "distance_travelled": 513.2786462320802,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.325",
+            "speed": 18.996,
+            "delta_speed": -0.004,
+            "distance_travelled": 515.1796679236954,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.425",
+            "speed": 18.997,
+            "delta_speed": 0.001,
+            "distance_travelled": 517.0687143170358,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.525",
+            "speed": 19.001,
+            "delta_speed": 0.004,
+            "distance_travelled": 518.9688143286899,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.625",
+            "speed": 18.997,
+            "delta_speed": -0.004,
+            "distance_travelled": 520.8624762950443,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.725",
+            "speed": 19.001,
+            "delta_speed": 0.004,
+            "distance_travelled": 522.7625065835202,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.825",
+            "speed": 18.985,
+            "delta_speed": -0.016,
+            "distance_travelled": 524.6610289062053,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:55.925",
+            "speed": 18.988,
+            "delta_speed": 0.003,
+            "distance_travelled": 526.5526963002528,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.025",
+            "speed": 18.995,
+            "delta_speed": 0.007,
+            "distance_travelled": 528.4577644668083,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.125",
+            "speed": 18.987,
+            "delta_speed": -0.008,
+            "distance_travelled": 530.3564400114171,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.225",
+            "speed": 18.982,
+            "delta_speed": -0.005,
+            "distance_travelled": 532.2549330554174,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.325",
+            "speed": 18.992,
+            "delta_speed": 0.01,
+            "distance_travelled": 534.1409906084156,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.425",
+            "speed": 19.013,
+            "delta_speed": 0.021,
+            "distance_travelled": 536.0423021546947,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.525",
+            "speed": 19.008,
+            "delta_speed": -0.005,
+            "distance_travelled": 537.9521103340811,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.625",
+            "speed": 19.021,
+            "delta_speed": 0.013,
+            "distance_travelled": 539.8583844077428,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.725",
+            "speed": 19.026,
+            "delta_speed": 0.005,
+            "distance_travelled": 541.7610128193684,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.825",
+            "speed": 19.042,
+            "delta_speed": 0.016,
+            "distance_travelled": 543.668005462276,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:56.925",
+            "speed": 19.057,
+            "delta_speed": 0.015,
+            "distance_travelled": 545.5828520362231,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.025",
+            "speed": 19.067,
+            "delta_speed": 0.01,
+            "distance_travelled": 547.4895426235597,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.125",
+            "speed": 19.104,
+            "delta_speed": 0.037,
+            "distance_travelled": 549.4067974057757,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.225",
+            "speed": 19.118,
+            "delta_speed": 0.014,
+            "distance_travelled": 551.3245420882993,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.325",
+            "speed": 19.136,
+            "delta_speed": 0.018,
+            "distance_travelled": 553.2381805684054,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.425",
+            "speed": 19.152,
+            "delta_speed": 0.016,
+            "distance_travelled": 555.151605089737,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.525",
+            "speed": 19.163,
+            "delta_speed": 0.011,
+            "distance_travelled": 557.0613505416926,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.625",
+            "speed": 19.18,
+            "delta_speed": 0.017,
+            "distance_travelled": 558.9793212911177,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.725",
+            "speed": 19.182,
+            "delta_speed": 0.002,
+            "distance_travelled": 560.9012044602048,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.825",
+            "speed": 19.19,
+            "delta_speed": 0.008,
+            "distance_travelled": 562.8119605586338,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:57.925",
+            "speed": 19.201,
+            "delta_speed": 0.011,
+            "distance_travelled": 564.7320967734161,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.025",
+            "speed": 19.207,
+            "delta_speed": 0.006,
+            "distance_travelled": 566.6464470278665,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.125",
+            "speed": 19.215,
+            "delta_speed": 0.008,
+            "distance_travelled": 568.5645091248712,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.225",
+            "speed": 19.212,
+            "delta_speed": -0.003,
+            "distance_travelled": 570.4856659911729,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.325",
+            "speed": 19.219,
+            "delta_speed": 0.007,
+            "distance_travelled": 572.3983913884082,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.425",
+            "speed": 19.227,
+            "delta_speed": 0.008,
+            "distance_travelled": 574.3114809934777,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.525",
+            "speed": 19.208,
+            "delta_speed": -0.019,
+            "distance_travelled": 576.2322903617265,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.625",
+            "speed": 19.192,
+            "delta_speed": -0.016,
+            "distance_travelled": 578.1454212035231,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.725",
+            "speed": 19.201,
+            "delta_speed": 0.009,
+            "distance_travelled": 580.0628535123412,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.825",
+            "speed": 19.199,
+            "delta_speed": -0.002,
+            "distance_travelled": 581.9827376388079,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:58.925",
+            "speed": 19.204,
+            "delta_speed": 0.005,
+            "distance_travelled": 583.9127481175276,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.025",
+            "speed": 19.214,
+            "delta_speed": 0.01,
+            "distance_travelled": 585.8383607495126,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.125",
+            "speed": 19.22,
+            "delta_speed": 0.006,
+            "distance_travelled": 587.7603795003333,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.225",
+            "speed": 19.233,
+            "delta_speed": 0.013,
+            "distance_travelled": 589.6920046061077,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.325",
+            "speed": 19.243,
+            "delta_speed": 0.01,
+            "distance_travelled": 591.6264832594355,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.425",
+            "speed": 19.257,
+            "delta_speed": 0.014,
+            "distance_travelled": 593.5521463945478,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.525",
+            "speed": 19.274,
+            "delta_speed": 0.017,
+            "distance_travelled": 595.4814685591857,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.625",
+            "speed": 19.283,
+            "delta_speed": 0.009,
+            "distance_travelled": 597.4193048755642,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.725",
+            "speed": 19.296,
+            "delta_speed": 0.013,
+            "distance_travelled": 599.3488935395427,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.825",
+            "speed": 19.304,
+            "delta_speed": 0.008,
+            "distance_travelled": 601.2830593391768,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:13:59.925",
+            "speed": 19.311,
+            "delta_speed": 0.007,
+            "distance_travelled": 603.2123760544243,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:14:00.025",
+            "speed": 19.323,
+            "delta_speed": 0.012,
+            "distance_travelled": 605.1446482562791,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:14:00.125",
+            "speed": 19.334,
+            "delta_speed": 0.011,
+            "distance_travelled": 607.0807594746643,
+            "segment": 2
+          },
+          {
+            "time": "2026-02-04T14:14:00.225",
+            "speed": 19.339,
+            "delta_speed": 0.005,
+            "distance_travelled": 609.0110856423596,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.325",
+            "speed": 19.352,
+            "delta_speed": 0.013,
+            "distance_travelled": 610.9463157163204,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.425",
+            "speed": 19.358,
+            "delta_speed": 0.006,
+            "distance_travelled": 612.8754964419804,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.525",
+            "speed": 19.362,
+            "delta_speed": 0.004,
+            "distance_travelled": 614.8067517483344,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.625",
+            "speed": 19.364,
+            "delta_speed": 0.002,
+            "distance_travelled": 616.7431536590544,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.725",
+            "speed": 19.377,
+            "delta_speed": 0.013,
+            "distance_travelled": 618.6773540594949,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.825",
+            "speed": 19.379,
+            "delta_speed": 0.002,
+            "distance_travelled": 620.6086461626808,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:00.925",
+            "speed": 19.38,
+            "delta_speed": 0.001,
+            "distance_travelled": 622.5466170911367,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.025",
+            "speed": 19.382,
+            "delta_speed": 0.002,
+            "distance_travelled": 624.4769014568379,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.125",
+            "speed": 19.382,
+            "delta_speed": 0.0,
+            "distance_travelled": 626.4063945469298,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.225",
+            "speed": 19.386,
+            "delta_speed": 0.004,
+            "distance_travelled": 628.344951301,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.325",
+            "speed": 19.372,
+            "delta_speed": -0.014,
+            "distance_travelled": 630.2793867935433,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.425",
+            "speed": 19.37,
+            "delta_speed": -0.002,
+            "distance_travelled": 632.2164930410853,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.525",
+            "speed": 19.352,
+            "delta_speed": -0.018,
+            "distance_travelled": 634.1517361168376,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.625",
+            "speed": 19.332,
+            "delta_speed": -0.02,
+            "distance_travelled": 636.0853287922573,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.725",
+            "speed": 19.328,
+            "delta_speed": -0.004,
+            "distance_travelled": 638.020498798469,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.825",
+            "speed": 19.301,
+            "delta_speed": -0.027,
+            "distance_travelled": 639.9506265300616,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:01.925",
+            "speed": 19.277,
+            "delta_speed": -0.024,
+            "distance_travelled": 641.8901113013626,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.025",
+            "speed": 19.271,
+            "delta_speed": -0.006,
+            "distance_travelled": 643.8206482738996,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.125",
+            "speed": 19.259,
+            "delta_speed": -0.012,
+            "distance_travelled": 645.7465228518818,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.225",
+            "speed": 19.257,
+            "delta_speed": -0.002,
+            "distance_travelled": 647.6769568353209,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.325",
+            "speed": 19.252,
+            "delta_speed": -0.005,
+            "distance_travelled": 649.6087440826059,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.425",
+            "speed": 19.254,
+            "delta_speed": 0.002,
+            "distance_travelled": 651.5340995541198,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.525",
+            "speed": 19.239,
+            "delta_speed": -0.015,
+            "distance_travelled": 653.462067983621,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.625",
+            "speed": 19.234,
+            "delta_speed": -0.005,
+            "distance_travelled": 655.3881005943447,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.725",
+            "speed": 19.238,
+            "delta_speed": 0.004,
+            "distance_travelled": 657.3118613958711,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.825",
+            "speed": 19.241,
+            "delta_speed": 0.003,
+            "distance_travelled": 659.2352749578074,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:02.925",
+            "speed": 19.237,
+            "delta_speed": -0.004,
+            "distance_travelled": 661.1579970552344,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.025",
+            "speed": 19.24,
+            "delta_speed": 0.003,
+            "distance_travelled": 663.0819944950127,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.125",
+            "speed": 19.254,
+            "delta_speed": 0.014,
+            "distance_travelled": 665.0053480491199,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.225",
+            "speed": 19.251,
+            "delta_speed": -0.003,
+            "distance_travelled": 666.9224880837036,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.325",
+            "speed": 19.265,
+            "delta_speed": 0.014,
+            "distance_travelled": 668.8489991915571,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.425",
+            "speed": 19.278,
+            "delta_speed": 0.013,
+            "distance_travelled": 670.7725236214441,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.525",
+            "speed": 19.275,
+            "delta_speed": -0.003,
+            "distance_travelled": 672.7021399724703,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.625",
+            "speed": 19.274,
+            "delta_speed": -0.001,
+            "distance_travelled": 674.6295173517232,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.725",
+            "speed": 19.258,
+            "delta_speed": -0.016,
+            "distance_travelled": 676.5573941363953,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.825",
+            "speed": 19.252,
+            "delta_speed": -0.006,
+            "distance_travelled": 678.4879080690454,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:03.925",
+            "speed": 19.258,
+            "delta_speed": 0.006,
+            "distance_travelled": 680.4137521642068,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.025",
+            "speed": 19.252,
+            "delta_speed": -0.006,
+            "distance_travelled": 682.3395687986887,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.125",
+            "speed": 19.243,
+            "delta_speed": -0.009,
+            "distance_travelled": 684.2630391482963,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.225",
+            "speed": 19.224,
+            "delta_speed": -0.019,
+            "distance_travelled": 686.1853894721987,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.325",
+            "speed": 19.216,
+            "delta_speed": -0.008,
+            "distance_travelled": 688.1051991425416,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.425",
+            "speed": 19.204,
+            "delta_speed": -0.012,
+            "distance_travelled": 690.022909112466,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.525",
+            "speed": 19.185,
+            "delta_speed": -0.019,
+            "distance_travelled": 691.9413887841139,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.625",
+            "speed": 19.171,
+            "delta_speed": -0.014,
+            "distance_travelled": 693.8572748248536,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.725",
+            "speed": 19.157,
+            "delta_speed": -0.014,
+            "distance_travelled": 695.7692169275952,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.825",
+            "speed": 19.143,
+            "delta_speed": -0.014,
+            "distance_travelled": 697.6834683702918,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:04.925",
+            "speed": 19.103,
+            "delta_speed": -0.04,
+            "distance_travelled": 699.5866273593612,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.025",
+            "speed": 19.088,
+            "delta_speed": -0.015,
+            "distance_travelled": 701.4964446735084,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.125",
+            "speed": 19.075,
+            "delta_speed": -0.013,
+            "distance_travelled": 703.4039811294815,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.225",
+            "speed": 19.055,
+            "delta_speed": -0.02,
+            "distance_travelled": 705.3065823295685,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.325",
+            "speed": 19.041,
+            "delta_speed": -0.014,
+            "distance_travelled": 707.208672543767,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.425",
+            "speed": 19.016,
+            "delta_speed": -0.025,
+            "distance_travelled": 709.1102854951605,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.525",
+            "speed": 18.997,
+            "delta_speed": -0.019,
+            "distance_travelled": 711.0195321537553,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.625",
+            "speed": 18.981,
+            "delta_speed": -0.016,
+            "distance_travelled": 712.9137648209567,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.725",
+            "speed": 18.958,
+            "delta_speed": -0.023,
+            "distance_travelled": 714.8096048203458,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.825",
+            "speed": 18.945,
+            "delta_speed": -0.013,
+            "distance_travelled": 716.7060790486248,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:05.925",
+            "speed": 18.93,
+            "delta_speed": -0.015,
+            "distance_travelled": 718.6049871634594,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.025",
+            "speed": 18.917,
+            "delta_speed": -0.013,
+            "distance_travelled": 720.4967106400516,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.125",
+            "speed": 18.899,
+            "delta_speed": -0.018,
+            "distance_travelled": 722.3867227107826,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.225",
+            "speed": 18.884,
+            "delta_speed": -0.015,
+            "distance_travelled": 724.2765265000569,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.325",
+            "speed": 18.871,
+            "delta_speed": -0.013,
+            "distance_travelled": 726.1636246750885,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.425",
+            "speed": 18.856,
+            "delta_speed": -0.015,
+            "distance_travelled": 728.0498157984059,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.525",
+            "speed": 18.842,
+            "delta_speed": -0.014,
+            "distance_travelled": 729.9350220146943,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.625",
+            "speed": 18.833,
+            "delta_speed": -0.009,
+            "distance_travelled": 731.8183564574563,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.725",
+            "speed": 18.817,
+            "delta_speed": -0.016,
+            "distance_travelled": 733.7058158746952,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.825",
+            "speed": 18.803,
+            "delta_speed": -0.014,
+            "distance_travelled": 735.5829988982455,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:06.925",
+            "speed": 18.787,
+            "delta_speed": -0.016,
+            "distance_travelled": 737.4617017222448,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.025",
+            "speed": 18.777,
+            "delta_speed": -0.01,
+            "distance_travelled": 739.3406686408189,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.125",
+            "speed": 18.763,
+            "delta_speed": -0.014,
+            "distance_travelled": 741.2215865386341,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.225",
+            "speed": 18.754,
+            "delta_speed": -0.009,
+            "distance_travelled": 743.0970019376106,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.325",
+            "speed": 18.759,
+            "delta_speed": 0.005,
+            "distance_travelled": 744.973712559363,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.425",
+            "speed": 18.744,
+            "delta_speed": -0.015,
+            "distance_travelled": 746.8480637943942,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.525",
+            "speed": 18.742,
+            "delta_speed": -0.002,
+            "distance_travelled": 748.7222332556111,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.625",
+            "speed": 18.734,
+            "delta_speed": -0.008,
+            "distance_travelled": 750.5928204528459,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.725",
+            "speed": 18.717,
+            "delta_speed": -0.017,
+            "distance_travelled": 752.4595752607726,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.825",
+            "speed": 18.705,
+            "delta_speed": -0.012,
+            "distance_travelled": 754.3301144039581,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:07.925",
+            "speed": 18.684,
+            "delta_speed": -0.021,
+            "distance_travelled": 756.1950521308141,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.025",
+            "speed": 18.665,
+            "delta_speed": -0.019,
+            "distance_travelled": 758.057072431129,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.125",
+            "speed": 18.649,
+            "delta_speed": -0.016,
+            "distance_travelled": 759.9219377106087,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.225",
+            "speed": 18.623,
+            "delta_speed": -0.026,
+            "distance_travelled": 761.7804158430306,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.325",
+            "speed": 18.603,
+            "delta_speed": -0.02,
+            "distance_travelled": 763.6375500787581,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.425",
+            "speed": 18.565,
+            "delta_speed": -0.038,
+            "distance_travelled": 765.4940854382627,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.525",
+            "speed": 18.543,
+            "delta_speed": -0.022,
+            "distance_travelled": 767.348653647866,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.625",
+            "speed": 18.522,
+            "delta_speed": -0.021,
+            "distance_travelled": 769.2024417220332,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.725",
+            "speed": 18.487,
+            "delta_speed": -0.035,
+            "distance_travelled": 771.0511277647325,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.825",
+            "speed": 18.457,
+            "delta_speed": -0.03,
+            "distance_travelled": 772.8978081437423,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:08.925",
+            "speed": 18.435,
+            "delta_speed": -0.022,
+            "distance_travelled": 774.7386705075464,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.025",
+            "speed": 18.413,
+            "delta_speed": -0.022,
+            "distance_travelled": 776.5799504771811,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.125",
+            "speed": 18.376,
+            "delta_speed": -0.037,
+            "distance_travelled": 778.4181653477624,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.225",
+            "speed": 18.356,
+            "delta_speed": -0.02,
+            "distance_travelled": 780.2494888952438,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.325",
+            "speed": 18.325,
+            "delta_speed": -0.031,
+            "distance_travelled": 782.0820300543604,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.425",
+            "speed": 18.29,
+            "delta_speed": -0.035,
+            "distance_travelled": 783.9063070240601,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.525",
+            "speed": 18.275,
+            "delta_speed": -0.015,
+            "distance_travelled": 785.7297961046954,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.625",
+            "speed": 18.242,
+            "delta_speed": -0.033,
+            "distance_travelled": 787.5540143771913,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.725",
+            "speed": 18.232,
+            "delta_speed": -0.01,
+            "distance_travelled": 789.3736131190482,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.825",
+            "speed": 18.222,
+            "delta_speed": -0.01,
+            "distance_travelled": 791.2065385247328,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:09.925",
+            "speed": 18.21,
+            "delta_speed": -0.012,
+            "distance_travelled": 793.0275191245123,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.025",
+            "speed": 18.205,
+            "delta_speed": -0.005,
+            "distance_travelled": 794.8589873907404,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.125",
+            "speed": 18.197,
+            "delta_speed": -0.008,
+            "distance_travelled": 796.6854067576312,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.225",
+            "speed": 18.202,
+            "delta_speed": 0.005,
+            "distance_travelled": 798.5056501873614,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.325",
+            "speed": 18.189,
+            "delta_speed": -0.013,
+            "distance_travelled": 800.3325991354209,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.425",
+            "speed": 18.183,
+            "delta_speed": -0.006,
+            "distance_travelled": 802.1538062537642,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.525",
+            "speed": 18.194,
+            "delta_speed": 0.011,
+            "distance_travelled": 803.9731766505332,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.625",
+            "speed": 18.207,
+            "delta_speed": 0.013,
+            "distance_travelled": 805.7995072539932,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.725",
+            "speed": 18.201,
+            "delta_speed": -0.006,
+            "distance_travelled": 807.6278724225414,
+            "segment": 3
+          },
+          {
+            "time": "2026-02-04T14:14:10.825",
+            "speed": 18.206,
+            "delta_speed": 0.005,
+            "distance_travelled": 809.4484588527779,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:10.925",
+            "speed": 18.224,
+            "delta_speed": 0.018,
+            "distance_travelled": 811.2685328764617,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.025",
+            "speed": 18.219,
+            "delta_speed": -0.005,
+            "distance_travelled": 813.0851434694499,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.125",
+            "speed": 18.224,
+            "delta_speed": 0.005,
+            "distance_travelled": 814.9075162253465,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.225",
+            "speed": 18.232,
+            "delta_speed": 0.008,
+            "distance_travelled": 816.727534060026,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.325",
+            "speed": 18.227,
+            "delta_speed": -0.005,
+            "distance_travelled": 818.5497486703077,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.425",
+            "speed": 18.235,
+            "delta_speed": 0.008,
+            "distance_travelled": 820.3732353504071,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.525",
+            "speed": 18.233,
+            "delta_speed": -0.002,
+            "distance_travelled": 822.1889359050917,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.625",
+            "speed": 18.225,
+            "delta_speed": -0.008,
+            "distance_travelled": 824.007407071967,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.725",
+            "speed": 18.233,
+            "delta_speed": 0.008,
+            "distance_travelled": 825.8307094781497,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.825",
+            "speed": 18.228,
+            "delta_speed": -0.005,
+            "distance_travelled": 827.6498252548688,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:11.925",
+            "speed": 18.218,
+            "delta_speed": -0.01,
+            "distance_travelled": 829.4717036521915,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.025",
+            "speed": 18.198,
+            "delta_speed": -0.02,
+            "distance_travelled": 831.2915320859822,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.125",
+            "speed": 18.181,
+            "delta_speed": -0.017,
+            "distance_travelled": 833.1069304735544,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.225",
+            "speed": 18.167,
+            "delta_speed": -0.014,
+            "distance_travelled": 834.924014672342,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.325",
+            "speed": 18.153,
+            "delta_speed": -0.014,
+            "distance_travelled": 836.7392998661214,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.425",
+            "speed": 18.136,
+            "delta_speed": -0.017,
+            "distance_travelled": 838.5504489186194,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.525",
+            "speed": 18.118,
+            "delta_speed": -0.018,
+            "distance_travelled": 840.3570118887901,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.625",
+            "speed": 18.09,
+            "delta_speed": -0.028,
+            "distance_travelled": 842.166032718725,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.725",
+            "speed": 18.051,
+            "delta_speed": -0.039,
+            "distance_travelled": 843.9640658782079,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.825",
+            "speed": 18.032,
+            "delta_speed": -0.019,
+            "distance_travelled": 845.7669988762997,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:12.925",
+            "speed": 18.001,
+            "delta_speed": -0.031,
+            "distance_travelled": 847.5670833792964,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.025",
+            "speed": 17.969,
+            "delta_speed": -0.032,
+            "distance_travelled": 849.3655751983309,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.125",
+            "speed": 17.949,
+            "delta_speed": -0.02,
+            "distance_travelled": 851.1635611089251,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.225",
+            "speed": 17.918,
+            "delta_speed": -0.031,
+            "distance_travelled": 852.9553768650453,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.325",
+            "speed": 17.89,
+            "delta_speed": -0.028,
+            "distance_travelled": 854.7533530836868,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.425",
+            "speed": 17.868,
+            "delta_speed": -0.022,
+            "distance_travelled": 856.5467773197128,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.525",
+            "speed": 17.84,
+            "delta_speed": -0.028,
+            "distance_travelled": 858.3308281552407,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.625",
+            "speed": 17.821,
+            "delta_speed": -0.019,
+            "distance_travelled": 860.118191666837,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.725",
+            "speed": 17.798,
+            "delta_speed": -0.023,
+            "distance_travelled": 861.9004349849317,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.825",
+            "speed": 17.777,
+            "delta_speed": -0.021,
+            "distance_travelled": 863.6781334744558,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:13.925",
+            "speed": 17.752,
+            "delta_speed": -0.025,
+            "distance_travelled": 865.4460297358372,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.025",
+            "speed": 17.732,
+            "delta_speed": -0.02,
+            "distance_travelled": 867.2159470436727,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.125",
+            "speed": 17.721,
+            "delta_speed": -0.011,
+            "distance_travelled": 868.9880523823739,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.225",
+            "speed": 17.711,
+            "delta_speed": -0.01,
+            "distance_travelled": 870.755139869369,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.325",
+            "speed": 17.692,
+            "delta_speed": -0.019,
+            "distance_travelled": 872.5175610316043,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.425",
+            "speed": 17.671,
+            "delta_speed": -0.021,
+            "distance_travelled": 874.2846764112933,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.525",
+            "speed": 17.648,
+            "delta_speed": -0.023,
+            "distance_travelled": 876.0534176352589,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.625",
+            "speed": 17.628,
+            "delta_speed": -0.02,
+            "distance_travelled": 877.815917284662,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.725",
+            "speed": 17.598,
+            "delta_speed": -0.03,
+            "distance_travelled": 879.5756878989345,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.825",
+            "speed": 17.575,
+            "delta_speed": -0.023,
+            "distance_travelled": 881.3364587484245,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:14.925",
+            "speed": 17.555,
+            "delta_speed": -0.02,
+            "distance_travelled": 883.0948012064301,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.025",
+            "speed": 17.541,
+            "delta_speed": -0.014,
+            "distance_travelled": 884.8489501324111,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.125",
+            "speed": 17.526,
+            "delta_speed": -0.015,
+            "distance_travelled": 886.5984606487542,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.225",
+            "speed": 17.508,
+            "delta_speed": -0.018,
+            "distance_travelled": 888.3476954934978,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.325",
+            "speed": 17.486,
+            "delta_speed": -0.022,
+            "distance_travelled": 890.0962737541327,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.425",
+            "speed": 17.454,
+            "delta_speed": -0.032,
+            "distance_travelled": 891.8409243023466,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.525",
+            "speed": 17.437,
+            "delta_speed": -0.017,
+            "distance_travelled": 893.5824234104106,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.625",
+            "speed": 17.414,
+            "delta_speed": -0.023,
+            "distance_travelled": 895.3238001476644,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.725",
+            "speed": 17.402,
+            "delta_speed": -0.012,
+            "distance_travelled": 897.0644741716895,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.825",
+            "speed": 17.388,
+            "delta_speed": -0.014,
+            "distance_travelled": 898.8003970515232,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:15.925",
+            "speed": 17.376,
+            "delta_speed": -0.012,
+            "distance_travelled": 900.5380334407829,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.025",
+            "speed": 17.363,
+            "delta_speed": -0.013,
+            "distance_travelled": 902.2750547408663,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.125",
+            "speed": 17.35,
+            "delta_speed": -0.013,
+            "distance_travelled": 904.0151198334726,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.225",
+            "speed": 17.334,
+            "delta_speed": -0.016,
+            "distance_travelled": 905.7485194570645,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.325",
+            "speed": 17.329,
+            "delta_speed": -0.005,
+            "distance_travelled": 907.4830181257233,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.425",
+            "speed": 17.318,
+            "delta_speed": -0.011,
+            "distance_travelled": 909.2177076554574,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.525",
+            "speed": 17.308,
+            "delta_speed": -0.01,
+            "distance_travelled": 910.9484648703586,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.625",
+            "speed": 17.298,
+            "delta_speed": -0.01,
+            "distance_travelled": 912.6824244294766,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.725",
+            "speed": 17.288,
+            "delta_speed": -0.01,
+            "distance_travelled": 914.4147274240469,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.825",
+            "speed": 17.285,
+            "delta_speed": -0.003,
+            "distance_travelled": 916.1431903137512,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:16.925",
+            "speed": 17.283,
+            "delta_speed": -0.002,
+            "distance_travelled": 917.8757752060983,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.025",
+            "speed": 17.272,
+            "delta_speed": -0.011,
+            "distance_travelled": 919.6042561682144,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.125",
+            "speed": 17.266,
+            "delta_speed": -0.006,
+            "distance_travelled": 921.3308921017738,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.225",
+            "speed": 17.265,
+            "delta_speed": -0.001,
+            "distance_travelled": 923.056583132986,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.325",
+            "speed": 17.254,
+            "delta_speed": -0.011,
+            "distance_travelled": 924.7802780338184,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.425",
+            "speed": 17.261,
+            "delta_speed": 0.007,
+            "distance_travelled": 926.5064140638839,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.525",
+            "speed": 17.273,
+            "delta_speed": 0.012,
+            "distance_travelled": 928.2330955797919,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.625",
+            "speed": 17.26,
+            "delta_speed": -0.013,
+            "distance_travelled": 929.9576462307832,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.725",
+            "speed": 17.251,
+            "delta_speed": -0.009,
+            "distance_travelled": 931.682785875823,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.825",
+            "speed": 17.242,
+            "delta_speed": -0.009,
+            "distance_travelled": 933.4084153560962,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:17.925",
+            "speed": 17.225,
+            "delta_speed": -0.017,
+            "distance_travelled": 935.1298064296404,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.025",
+            "speed": 17.208,
+            "delta_speed": -0.017,
+            "distance_travelled": 936.850616240578,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.125",
+            "speed": 17.165,
+            "delta_speed": -0.043,
+            "distance_travelled": 938.5571964719711,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.225",
+            "speed": 17.146,
+            "delta_speed": -0.019,
+            "distance_travelled": 940.2722750174792,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.325",
+            "speed": 17.129,
+            "delta_speed": -0.017,
+            "distance_travelled": 941.9851375065389,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.425",
+            "speed": 17.104,
+            "delta_speed": -0.025,
+            "distance_travelled": 943.69229400662,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.525",
+            "speed": 17.083,
+            "delta_speed": -0.021,
+            "distance_travelled": 945.3916037696116,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.625",
+            "speed": 17.05,
+            "delta_speed": -0.033,
+            "distance_travelled": 947.09655747383,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.725",
+            "speed": 17.034,
+            "delta_speed": -0.016,
+            "distance_travelled": 948.7958427119021,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.825",
+            "speed": 17.013,
+            "delta_speed": -0.021,
+            "distance_travelled": 950.4939941075453,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:18.925",
+            "speed": 16.978,
+            "delta_speed": -0.035,
+            "distance_travelled": 952.1917488260838,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.025",
+            "speed": 16.937,
+            "delta_speed": -0.041,
+            "distance_travelled": 953.8875495048752,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.125",
+            "speed": 16.915,
+            "delta_speed": -0.022,
+            "distance_travelled": 955.5762034987814,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.225",
+            "speed": 16.887,
+            "delta_speed": -0.028,
+            "distance_travelled": 957.2648613918905,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.325",
+            "speed": 16.846,
+            "delta_speed": -0.041,
+            "distance_travelled": 958.9488064242655,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.425",
+            "speed": 16.825,
+            "delta_speed": -0.021,
+            "distance_travelled": 960.6344311847739,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.525",
+            "speed": 16.786,
+            "delta_speed": -0.039,
+            "distance_travelled": 962.3130529618043,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.625",
+            "speed": 16.758,
+            "delta_speed": -0.028,
+            "distance_travelled": 963.9920864805016,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.725",
+            "speed": 16.739,
+            "delta_speed": -0.019,
+            "distance_travelled": 965.6724305202066,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.825",
+            "speed": 16.706,
+            "delta_speed": -0.033,
+            "distance_travelled": 967.3430123763021,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:19.925",
+            "speed": 16.687,
+            "delta_speed": -0.019,
+            "distance_travelled": 969.0127324034017,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.025",
+            "speed": 16.672,
+            "delta_speed": -0.015,
+            "distance_travelled": 970.6863319269651,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.125",
+            "speed": 16.666,
+            "delta_speed": -0.006,
+            "distance_travelled": 972.352966030549,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.225",
+            "speed": 16.657,
+            "delta_speed": -0.009,
+            "distance_travelled": 974.0194655221652,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.325",
+            "speed": 16.644,
+            "delta_speed": -0.013,
+            "distance_travelled": 975.6808836201448,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.425",
+            "speed": 16.629,
+            "delta_speed": -0.015,
+            "distance_travelled": 977.3438009427483,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.525",
+            "speed": 16.605,
+            "delta_speed": -0.024,
+            "distance_travelled": 979.0035977036935,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.625",
+            "speed": 16.597,
+            "delta_speed": -0.008,
+            "distance_travelled": 980.677046782341,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.725",
+            "speed": 16.619,
+            "delta_speed": 0.022,
+            "distance_travelled": 982.3389601858697,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.825",
+            "speed": 16.644,
+            "delta_speed": 0.025,
+            "distance_travelled": 984.0160647687479,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:20.925",
+            "speed": 16.634,
+            "delta_speed": -0.01,
+            "distance_travelled": 985.689084994988,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.025",
+            "speed": 16.647,
+            "delta_speed": 0.013,
+            "distance_travelled": 987.353809095554,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.125",
+            "speed": 16.642,
+            "delta_speed": -0.005,
+            "distance_travelled": 989.0114554159161,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.225",
+            "speed": 16.631,
+            "delta_speed": -0.011,
+            "distance_travelled": 990.6815381396551,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.325",
+            "speed": 16.651,
+            "delta_speed": 0.02,
+            "distance_travelled": 992.3466812372,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.425",
+            "speed": 16.658,
+            "delta_speed": 0.007,
+            "distance_travelled": 994.0107760294414,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.525",
+            "speed": 16.64,
+            "delta_speed": -0.018,
+            "distance_travelled": 995.6671189929638,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.625",
+            "speed": 16.629,
+            "delta_speed": -0.011,
+            "distance_travelled": 997.330020557544,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.725",
+            "speed": 16.607,
+            "delta_speed": -0.022,
+            "distance_travelled": 998.9798947532973,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.825",
+            "speed": 16.588,
+            "delta_speed": -0.019,
+            "distance_travelled": 1000.6441436334898,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:21.925",
+            "speed": 16.594,
+            "delta_speed": 0.006,
+            "distance_travelled": 1002.3035130661948,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:22.025",
+            "speed": 16.592,
+            "delta_speed": -0.002,
+            "distance_travelled": 1003.9661847724111,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:22.125",
+            "speed": 16.563,
+            "delta_speed": -0.029,
+            "distance_travelled": 1005.6264119309371,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:22.225",
+            "speed": 16.542,
+            "delta_speed": -0.021,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 4
+          },
+          {
+            "time": "2026-02-04T14:14:22.325",
+            "speed": 16.506,
+            "delta_speed": -0.036,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.425",
+            "speed": 16.467,
+            "delta_speed": -0.039,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.525",
+            "speed": 16.426,
+            "delta_speed": -0.041,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.625",
+            "speed": 16.383,
+            "delta_speed": -0.043,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.725",
+            "speed": 16.336,
+            "delta_speed": -0.047,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.825",
+            "speed": 16.282,
+            "delta_speed": -0.054,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:22.925",
+            "speed": 16.226,
+            "delta_speed": -0.056,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.025",
+            "speed": 16.175,
+            "delta_speed": -0.051,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.125",
+            "speed": 16.102,
+            "delta_speed": -0.073,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.225",
+            "speed": 16.018,
+            "delta_speed": -0.084,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.325",
+            "speed": 15.961,
+            "delta_speed": -0.057,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.425",
+            "speed": 15.884,
+            "delta_speed": -0.077,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.525",
+            "speed": 15.79,
+            "delta_speed": -0.094,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.625",
+            "speed": 15.731,
+            "delta_speed": -0.059,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.725",
+            "speed": 15.649,
+            "delta_speed": -0.082,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.825",
+            "speed": 15.573,
+            "delta_speed": -0.076,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:23.925",
+            "speed": 15.516,
+            "delta_speed": -0.057,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.025",
+            "speed": 15.444,
+            "delta_speed": -0.072,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.125",
+            "speed": 15.38,
+            "delta_speed": -0.064,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.225",
+            "speed": 15.325,
+            "delta_speed": -0.055,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.325",
+            "speed": 15.256,
+            "delta_speed": -0.069,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.425",
+            "speed": 15.186,
+            "delta_speed": -0.07,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.525",
+            "speed": 15.138,
+            "delta_speed": -0.048,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.625",
+            "speed": 15.103,
+            "delta_speed": -0.035,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.725",
+            "speed": 15.064,
+            "delta_speed": -0.039,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.825",
+            "speed": 15.019,
+            "delta_speed": -0.045,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:24.925",
+            "speed": 14.992,
+            "delta_speed": -0.027,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.025",
+            "speed": 14.963,
+            "delta_speed": -0.029,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.125",
+            "speed": 14.922,
+            "delta_speed": -0.041,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.225",
+            "speed": 14.897,
+            "delta_speed": -0.025,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.325",
+            "speed": 14.868,
+            "delta_speed": -0.029,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.425",
+            "speed": 14.813,
+            "delta_speed": -0.055,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.525",
+            "speed": 14.789,
+            "delta_speed": -0.024,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.625",
+            "speed": 14.796,
+            "delta_speed": 0.007,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.725",
+            "speed": 14.784,
+            "delta_speed": -0.012,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.825",
+            "speed": 14.802,
+            "delta_speed": 0.018,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:25.925",
+            "speed": 14.796,
+            "delta_speed": -0.006,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.025",
+            "speed": 14.708,
+            "delta_speed": -0.088,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.125",
+            "speed": 14.668,
+            "delta_speed": -0.04,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.225",
+            "speed": 14.638,
+            "delta_speed": -0.03,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.325",
+            "speed": 14.595,
+            "delta_speed": -0.043,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.425",
+            "speed": 14.524,
+            "delta_speed": -0.071,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.525",
+            "speed": 14.517,
+            "delta_speed": -0.007,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.625",
+            "speed": 14.43,
+            "delta_speed": -0.087,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.725",
+            "speed": 14.447,
+            "delta_speed": 0.017,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.825",
+            "speed": 14.369,
+            "delta_speed": -0.078,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:26.925",
+            "speed": 14.337,
+            "delta_speed": -0.032,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.025",
+            "speed": 14.206,
+            "delta_speed": -0.131,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.125",
+            "speed": 14.09,
+            "delta_speed": -0.116,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.225",
+            "speed": 14.415,
+            "delta_speed": 0.325,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.325",
+            "speed": 14.618,
+            "delta_speed": 0.203,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.425",
+            "speed": 14.551,
+            "delta_speed": -0.067,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.525",
+            "speed": 14.256,
+            "delta_speed": -0.295,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.625",
+            "speed": 12.607,
+            "delta_speed": -1.649,
+            "distance_travelled": 1007.2806223510353,
+            "segment": 5
+          },
+          {
+            "time": "2026-02-04T14:14:27.725",
+            "speed": 17.589,
+            "delta_speed": 4.982,
+            "distance_travelled": 987.186,
+            "segment": 5
+          }
+        ]
+      }
+    }
+  ]
+}
